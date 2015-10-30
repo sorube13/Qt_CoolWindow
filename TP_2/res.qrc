@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/quit.png</file>
+        <file>images/save.png</file>
+        <file>images/red.png</file>
+        <file>images/color.png</file>
+        <file>images/bigPoint.png</file>
+        <file>images/mediumPoint.jpg</file>
+        <file>images/smallPoint.png</file>
+        <file>images/dashLine.png</file>
+        <file>images/dotLine.png</file>
+        <file>images/solidLine.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/mediumPoint.png</file>
+        <file>images/rectangle.png</file>
+        <file>images/clear.jpg</file>
+        <file>images/undo.png</file>
+    </qresource>
+</RCC>
